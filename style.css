@@ -1,0 +1,104 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.header-area{
+    background-image: url(images/header-bg.png);
+    background-repeat:no-repeat;
+    background-position: center;
+    margin: 0 auto;
+    overflow:hidden;
+    background-size:cover;
+}
+.half-width{
+    width:40%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2%;
+    padding-top:10%;
+}
+p{
+    color:gray;
+}
+.half-width img{
+    width:100%;
+}
+h2{
+    font-size:35px;
+}
+.text-highlight{
+    font-size:50px;
+    color:hotpink;
+    font: weight 700;
+    margin-top: -20px;
+}
+.jack-text{
+    margin-top:-28px;
+    margin-bottom:32px;
+}
+.hire-link{
+    text-decoration: none;
+    background-image:linear-gradient(90deg, #e84393,#fd79a8);
+    color:#fff;
+    font-size:16px;
+    padding:10px 20px;
+    border-radius:4px;
+}
+.biography-area{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0 auto;
+    overflow:hidden;
+    background-size:cover;
+}
+.cv-link{
+    text-decoration: none;
+    background-image:linear-gradient(90deg, #e84393,#fd79a8);
+    color:#fff;
+    font-size:16px;
+    padding:10px 20px;
+    border-radius:4px;
+}
+.projects-area{
+    width:100%;
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0 auto;
+    overflow:hidden;
+    background-size:cover;
+}
+.projects-area img{
+    width:100%;
+}
+.project-title{
+    text-align: center;
+    margin-top: 5%;
+}
+.projects{
+    width:30%;
+    float:left;
+    margin-left: 2%;
+    margin-bottom:5%;
+}
+.client-area{
+    text-align: center;
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0 auto;
+    overflow:hidden;
+    background-size:cover;
+}
+.leave-message{
+    background-image:linear-gradient(90deg, #e9509a,#fd79a8);
+    color:#09ecec;
+    font-size:16px;
+    padding:15px 80px;
+    border-radius:6px;
+    width:300px;
+    margin:0 auto;
+    margin-top:50px;
+    margin-bottom: 50px;
+}
